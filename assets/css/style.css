@@ -2696,7 +2696,6 @@ p {
       16.PRICING css 
 ===========================*/
 .pricing-area {
-  background-color: #f4f6f7;
   padding-top: 120px;
   padding-bottom: 130px; }
 
@@ -2777,7 +2776,9 @@ p {
 .about-area {
   padding-top: 80px;
   padding-bottom: 130px;
-  position: relative; }
+  position: relative;
+  background-color: #f4f6f7;
+   }
   .about-area .about-title .sub-title {
     font-size: 18px;
     font-weight: 400;
@@ -2840,8 +2841,9 @@ p {
 /*===== TESTIMONIAL STYLE THREE =====*/
 .testimonial-area {
   padding-top: 80px;
-  padding-bottom: 130px;
-  background-color: #f4f6f7; }
+  padding-bottom: 130px; 
+  
+}
   .testimonial-area .testimonial-left-content .sub-title {
     font-size: 18px;
     font-weight: 400;
